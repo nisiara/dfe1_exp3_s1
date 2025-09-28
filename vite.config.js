@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/dfe1_exp3_s1'
+  base: "https://nisiara.github.io/dfe1_exp3_s1/"
 })
